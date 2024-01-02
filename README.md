@@ -1,6 +1,8 @@
 # Spotiapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+
+## How does it work?
 You need to fill in the 'Authorization' field in the header of the spotify.service.ts file located in src/app/services/ so that the webpage can be displayed. 
 To do this, you need to obtain an access token from the official Spotify API.
 
